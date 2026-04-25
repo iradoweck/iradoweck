@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Edmilson Muacigarro</h1>
 
-<!--
-**iradoweck/iradoweck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Empreendedor Tecnológico | Fundador da Zedeck’s IT <br>
+💡 Desenvolvo soluções digitais para negócios <br>
+🧠 Programador & Contabilista
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔭 Atualmente a trabalhar em sistemas como o **ZStock**
+- 🌱 Focado em tecnologia, negócios e inteligência artificial
+- 💼 Ajudo empresas a digitalizar e crescer
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+- 💻 HTML, CSS, JavaScript  
+- 🐍 Python  
+- 🌐 WordPress  
+- 🗄️ MySQL  
+- ⚙️ Sistemas de gestão (POS, ERP)
+
+---
+
+## 📌 Projetos em Destaque
+- 🧾 ZStock – Sistema de gestão e faturação  
+- 🌐 Websites profissionais  
+- 🤖 Automação de processos empresariais  
+
+---
+
+## 📫 Contacto
+- 📧 info@zedecks.com  
+- 📱 WhatsApp: 86 613 3052  
+
+---
+
+## 🌍 Conecta comigo
+- 💼 Empresa: Zedeck’s IT  
+- 🎓 Formação: Zedeck’s Training  
+
+---
+
+<p align="center">
+🔥 "Transformando ideias em sistemas reais"
+</p>
