@@ -1,10 +1,16 @@
-<h1 align="center">⚡ Edmilson Muacigarro</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm Edmilson Muacigarro!
+  <img align="right" src="https://komarev.com/ghpvc/?username=iradoweck" alt="GitHub profile views counter">
+</h1>
 
-<p align="center">
-  <strong>Software Engineer • Founder • Open Source Builder • Community Architect</strong>
-</p>
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 
-> <p align="center"><em>Building technology ecosystems from Mozambique for Africa and beyond.</em></p>
+**Software Engineer • Founder • Open Source Builder • Community Architect**
+
+> Building technology ecosystems from Mozambique for Africa and beyond.
 
 ---
 
@@ -36,7 +42,6 @@ I prioritize solving real-world problems over chasing technological hype, focusi
 | • **Python**<br>• **PHP (Laravel)**<br>• Node.js | • **Flutter / Dart**<br>• **TypeScript / React**<br>• Next.js / HTML / CSS | • **Linux / Docker**<br>• SQL / NoSQL<br>• Cloud Platforms |
 
 ---
-
 
 ## 🌍 Connect & Collaborate
 
